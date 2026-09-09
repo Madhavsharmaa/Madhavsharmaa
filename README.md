@@ -68,48 +68,6 @@ I enjoy turning messy data and real-world problems into reliable, usable softwar
 
 ---
 
-## 💼 Experience
-
-### Intern — bSkilling Pvt. Ltd.
-**Aug 2025 – Feb 2026**
-
-- Engineered an internal CRM backend handling **2.5M+ records** across multiple business verticals.
-- Built Python ETL pipelines for extraction, cleaning, normalization, and validation.
-- Automated data ingestion, validation, and API-driven workflows using **Python and n8n**.
-- Helped improve turnaround time for PAN-India data processing.
-
-### Data Labeling Intern — Masters India IT Solutions
-**Nov 2022 – Jan 2023**
-
-- Annotated, classified, and validated datasets for machine-learning and AI applications.
-- Performed data cleaning, verification, and quality assurance.
-- Maintained data consistency and labeling standards across projects.
-
-### Telecaller — Futwork
-**Jul 2021 – Jul 2023**
-
-- Engaged prospective customers through outbound calling and lead generation.
-- Consistently worked toward daily performance targets.
-- Developed strong communication, problem-solving, and customer relationship skills.
-
----
-
-## 🎓 Education
-
-### B.Tech. — Computer Science & Engineering
-**I.K. Gujral Punjab Technical University | 2022–2026**
-
-Relevant coursework:
-- Data Structures
-- Object-Oriented Programming
-- Database Management Systems
-- Software Engineering
-- Web Technologies
-
-Also contributed to student activities through the **Students' Library Committee** and **NDLI (IIT Kharagpur) Club**.
-
----
-
 ## 🔥 Featured Projects
 
 ### 🚆 Rail Sarthi
@@ -161,7 +119,6 @@ A modern weather application providing real-time weather information through a c
 
 ## 📊 GitHub Stats
 
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=madhavsharmaa&show_icons=true&theme=transparent&hide_border=true" height="170" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavsharmaa&layout=compact&theme=transparent&hide_border=true" height="170" alt="Top Languages">
@@ -173,13 +130,10 @@ A modern weather application providing real-time weather information through a c
 
 ---
 
-## 📈 What I'm Working On
+## 🧠 Coding Profiles
 
-- Building scalable Python backend systems
-- Improving my DSA and problem-solving skills
-- Exploring machine learning and AI
-- Building automation and scraping systems
-- Developing full-stack applications with modern web technologies
+- 🟧 [LeetCode](https://leetcode.com/u/Madhavsharmaa/)
+- 🟩 [GeeksforGeeks](https://www.geeksforgeeks.org/profile/madhavsharmaaa)
 
 ---
 
@@ -192,7 +146,7 @@ A modern weather application providing real-time weather information through a c
   <a href="https://terminalmadhav-two.vercel.app/">
     <img src="https://img.shields.io/badge/Terminal%20Portfolio-111827?style=for-the-badge&logo=gnubash&logoColor=white" alt="Terminal Portfolio">
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/">
+  <a href="https://www.linkedin.com/in/madhavshh/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
