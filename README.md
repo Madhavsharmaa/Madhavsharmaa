@@ -161,15 +161,14 @@ A modern weather application providing real-time weather information through a c
 
 ## 📊 GitHub Stats
 
-> Replace `YOUR_GITHUB_USERNAME` below with your GitHub username.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true" height="170" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true" height="170" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=madhavsharmaa&show_icons=true&theme=transparent&hide_border=true" height="170" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavsharmaa&layout=compact&theme=transparent&hide_border=true" height="170" alt="Top Languages">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true" alt="GitHub Streak">
+  <img src="https://streak-stats.demolab.com?user=madhavsharmaa&theme=transparent&hide_border=true" alt="GitHub Streak">
 </p>
 
 ---
@@ -200,7 +199,7 @@ A modern weather application providing real-time weather information through a c
 
 📧 **Email:** mdvshrma@gmail.com
 
-📍 **Amritsar, Punjab, India**
+📍 **Punjab, India**
 
 ---
 
