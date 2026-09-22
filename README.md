@@ -115,6 +115,7 @@ A modern weather application providing real-time weather information through a c
 
 🔗 **Live:** https://skyline-weather-app-nine.vercel.app/
 
+
 ---
 
 ## 📊 GitHub Stats
@@ -126,6 +127,10 @@ A modern weather application providing real-time weather information through a c
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=madhavsharmaa&theme=transparent&hide_border=true" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=madhavsharmaa&style=flat-square&color=blue" alt="Profile Views">
 </p>
 
 ---
