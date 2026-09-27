@@ -70,7 +70,7 @@ I enjoy turning messy data and real-world problems into reliable, usable softwar
 
 ## 🔥 Featured Projects
 
-### 🚆 Rail Sarthi
+### 🚆 Rail Sarthee
 
 A railway utility platform built around Indian Railways data and services.
 
