@@ -120,10 +120,10 @@ A modern weather application providing real-time weather information through a c
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=madhavsharmaa&show_icons=true&theme=transparent&hide_border=true" height="170" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhavsharmaa&layout=compact&theme=transparent&hide_border=true" height="170" alt="Top Languages">
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=madhavsharmaa&theme=transparent&hide_border=true" alt="GitHub Streak">
